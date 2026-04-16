@@ -36,9 +36,9 @@ Xposed модуль на HyperOS, для кастомизации иконок �
 
 
 ## Скриншоты
-| ![Screenshot1](https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-default.jpg)|
+| ![Screenshot1](https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-default.png)|
 |------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Screenshot2](https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-monet.jpg)  |
+| ![Screenshot2](https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/refs/heads/main/assets/fingerprint-cataloge-monet.png)  |
 
 
 ## Контакты
