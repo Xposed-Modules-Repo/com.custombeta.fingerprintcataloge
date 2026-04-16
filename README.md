@@ -1,6 +1,6 @@
 <div align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_EN-blue"></a>
-  <a href="README_RU.md"><img src="https://img.shields.io/badge/🇷🇺_RU-gray"></a>
+  <a href="https://github.com/Xposed-Modules-Repo/com.custombeta.fingerprintcataloge/blob/main/README.md"><img src="https://img.shields.io/badge/🇺🇸_EN-blue"></a>
+  <a href="https://github.com/Xposed-Modules-Repo/com.custombeta.fingerprintcataloge/blob/main/README_RU.md"><img src="https://img.shields.io/badge/🇷🇺_RU-gray"></a>
 </div>
 
 <div align="center">
